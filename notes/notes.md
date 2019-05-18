@@ -10,7 +10,7 @@ Podrobnou statistickou analýzu si můžete přečíst na webu [Our World In Dat
 
 **„Hra důvěry“**
 
-Tato hra je v teorii her také známá pod názvem *Vezňovo dilema*. Tento název vychází z varianty, kde dva spolupachatelé zločinu buď mohou napráskat toho druhého („podrazit“), nebo mlčet („spolupracovat“). V tomto průvodci jsem se rozhodl použít jinou variantu této hry, protože 1) vzájemná spolupráce obou zločinců by byla špatným příkladem pro společnost a 2) je to nerealistické, každý přece ví, že práskači dostanou výprask.
+Tato hra je v teorii her také známá pod názvem *Vezňovo dilema*. Tento název vychází z varianty, kde dva spolupachatelé zločinu buď mohou napráskat toho druhého („podrazit“), nebo mlčet („spolupracovat“). V tomto průvodci jsem se rozhodl použít jinou variantu této hry, protože 1) vzájemná spolupráce dvou zločinců by byla špatným příkladem pro společnost a 2) je to nerealistické, každý přece ví, že práskači dostanou výprask.
 
 **„Nebudete předem vědět, která hra je poslední“**
 
@@ -56,7 +56,7 @@ Vážně, jděte si přečíst knihu [Bowling Alone](http://bowlingalone.com/) o
 
 Sice to bude znít trochu trapně, ale pořád zbožňuji knihu [7 návyků skutečně efektivních lidí](https://cs.wikipedia.org/wiki/7_n%C3%A1vyk%C5%AF_skute%C4%8Dn%C4%9B_efektivn%C3%ADch_lid%C3%AD) z roku 1989 — především Návyk č. 4: Myslete způsobem výhra - výhra.
 
-Protože navzdory všeobecnému přesvědčení, hledat oboustranně prospěšná řešení je těžké, vyžaduje to spoustu úsilí a emocionálního utrpení. Klidně to řeknu ještě ostřeji — podle mě je naše sobecká kultura spokojit se s jednostranně výhodným řešením „my versus oni“ tou lehčí cestou, známkou lenosti, aktivistickou obdobou přejídání.
+Protože, navzdory všeobecnému přesvědčení, hledat oboustranně prospěšná řešení je těžké, vyžaduje to spoustu úsilí a emocionálního utrpení. Klidně to řeknu ještě ostřeji — podle mě je naše sobecká kultura spokojit se s jednostranně výhodným řešením „my versus oni“ tou lehčí cestou, známkou lenosti, aktivistickou obdobou přejídání.
 
 Ale bez přehánění, jsem pevně přesvědčen, že všichni nutně potřebujeme dosahovat oboustranně prospěšných řešení — v osobním životě, ve společenském životě a _především_ v politickém životě.
 
